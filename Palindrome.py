@@ -2,7 +2,11 @@
 Runtime: 77 ms, faster than 79.13% of Python3 online submissions for Palindrome Number.
 Memory Usage: 13.9 MB, less than 59.40% of Python3 online submissions for Palindrome Number.
 
+Given an integer x, return true if x is palindrome integer.
 
+An integer is a palindrome when it reads the same backward as forward.
+
+For example, 121 is a palindrome while 123 is not.
 """
 
 class Solution:
