@@ -1,3 +1,10 @@
+"""
+Runtime: 77 ms, faster than 79.13% of Python3 online submissions for Palindrome Number.
+Memory Usage: 13.9 MB, less than 59.40% of Python3 online submissions for Palindrome Number.
+
+
+"""
+
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         res = False
