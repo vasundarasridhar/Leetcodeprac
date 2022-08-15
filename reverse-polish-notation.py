@@ -1,6 +1,6 @@
-Success Details 
+"""Success Details 
 Runtime: 73 ms, faster than 89.37% of Python3 online submissions for Evaluate Reverse Polish Notation.
-Memory Usage: 14.4 MB, less than 57.72% of Python3 online submissions for Evaluate Reverse Polish Notation.
+Memory Usage: 14.4 MB, less than 57.72% of Python3 online submissions for Evaluate Reverse Polish Notation."""
 
 import operator
 
